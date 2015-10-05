@@ -1,6 +1,17 @@
 # ml-directory
 Machine learning directory
 
-### Deep Learning
+## Supervised Learning
 
-### Reinforcement Learning
+### Neural Networks
+
+#### Reservoir Computing
+
+#### Deep Learning
+
+- http://deeplearning.net/
+- http://deeplearning.net/tutorial/
+
+## Unsupervised Learning
+
+## Reinforcement Learning
