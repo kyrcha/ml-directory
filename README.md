@@ -1,6 +1,10 @@
 # ml-directory
 Machine learning directory
 
+## Dimensionality Reduction
+
+### PCA
+
 ## Supervised Learning
 
 ### Neural Networks
