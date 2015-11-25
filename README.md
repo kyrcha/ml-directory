@@ -33,14 +33,19 @@ Deep stuff:
 - [Understanding LSTMs](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 - [Geoffrey Hinton's Neural Networks for Machine Learning](https://www.youtube.com/playlist?list=PLnWkMhyDLp1DepxsI1pjLBMKnq6INEqKR)
 - [General Sequence Learning using Recurrent Neural Networks](https://clip.mn/video/yt-VINCQghQRuM)
+- [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
 
 ## Software
 
-- https://www.r-project.org/
-- http://www.scipy.org/
+- https://www.r-project.org/ [R]
+- http://www.scipy.org/ [Python]
 
 ### Deep Learning: 
 - [Theano](http://www.deeplearning.net/software/theano/)
 - [DL4J](http://deeplearning4j.org/)
 - [Caffe](http://caffe.berkeleyvision.org/)
 - [torch](http://torch.ch/)
+- 
+## Blog roll
+
+- [Andrej Karpathy](http://karpathy.github.io/)
