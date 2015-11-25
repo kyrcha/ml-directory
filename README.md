@@ -41,6 +41,7 @@ Deep stuff:
 
 - https://www.r-project.org/ [R]
 - http://www.scipy.org/ [Python]
+- [TensorFlow](http://www.tensorflow.org/)
 
 ### Deep Learning: 
 - [Theano](http://www.deeplearning.net/software/theano/)
