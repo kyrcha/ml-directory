@@ -22,6 +22,7 @@ Deep stuff:
 ## Web sites
 
 - http://deeplearning.net/
+- [Data Science Trello public board](https://trello.com/b/rbpEfMld/data-science)
 
 ## Tutorials
 
