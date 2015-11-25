@@ -3,25 +3,27 @@ Machine learning directory
 
 ## Books
 
-Standard references
+Reinforcement Learning:
+
+- [Reinforcement Learning: An Introduction](https://webdocs.cs.ualberta.ca/~sutton/book/the-book.html) - Sutton & Barto
 
 ## Courses
 
-- [Learning from Data](http://work.caltech.edu/telecourse.html) - Prof. Yaser S. Abu-Mustafa
+Machine Learning:
 
-## Dimensionality Reduction
+- [Learning from Data](http://work.caltech.edu/telecourse.html)
 
-### PCA
+Deep stuff:
 
-## Supervised Learning
+- [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+- [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
+- [CS 294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)
 
-### Neural Networks
-
-#### Web Sites
+## Web sites
 
 - http://deeplearning.net/
 
-#### Tutorials
+## Tutorials
 
 - [Deep Learning tutorials directory](http://deeplearning.net/tutorial/)
 - [Unsupervised Feature Learning and Deep Learning](http://ufldl.stanford.edu/tutorial/)
@@ -32,14 +34,13 @@ Standard references
 - [Geoffrey Hinton's Neural Networks for Machine Learning](https://www.youtube.com/playlist?list=PLnWkMhyDLp1DepxsI1pjLBMKnq6INEqKR)
 - [General Sequence Learning using Recurrent Neural Networks](https://clip.mn/video/yt-VINCQghQRuM)
 
-#### Software
+## Software
 
-Deep Learning: 
+- https://www.r-project.org/
+- http://www.scipy.org/
+
+### Deep Learning: 
 - [Theano](http://www.deeplearning.net/software/theano/)
 - [DL4J](http://deeplearning4j.org/)
 - [Caffe](http://caffe.berkeleyvision.org/)
 - [torch](http://torch.ch/)
-
-## Unsupervised Learning
-
-## Reinforcement Learning
