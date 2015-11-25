@@ -27,6 +27,7 @@ Deep stuff:
 ## Tutorials
 
 - [Deep Learning tutorials directory](http://deeplearning.net/tutorial/)
+- [Kaggle tutorials directory](https://www.kaggle.com/wiki/Tutorials)
 - [Unsupervised Feature Learning and Deep Learning](http://ufldl.stanford.edu/tutorial/)
 - [CNN for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
 - [RNN tutorial](http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/) in 4 parts
