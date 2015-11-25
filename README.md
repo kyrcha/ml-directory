@@ -45,7 +45,7 @@ Deep stuff:
 - [DL4J](http://deeplearning4j.org/)
 - [Caffe](http://caffe.berkeleyvision.org/)
 - [torch](http://torch.ch/)
-- 
+
 ## Blog roll
 
 - [Andrej Karpathy](http://karpathy.github.io/)
