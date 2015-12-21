@@ -36,6 +36,7 @@ Deep stuff:
 - [Geoffrey Hinton's Neural Networks for Machine Learning](https://www.youtube.com/playlist?list=PLnWkMhyDLp1DepxsI1pjLBMKnq6INEqKR)
 - [General Sequence Learning using Recurrent Neural Networks](https://clip.mn/video/yt-VINCQghQRuM)
 - [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
+- [Deep Learning tutorial @ Kaggle](https://www.kaggle.com/c/second-annual-data-science-bowl/details/deep-learning-tutorial)
 
 ## Software
 
