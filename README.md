@@ -53,6 +53,7 @@ Deep stuff:
 - https://www.r-project.org/ [R]
 - http://www.scipy.org/ [Python]
 - [TensorFlow](http://www.tensorflow.org/)
+- [pandas](http://pandas.pydata.org/) - Python Data Analysis Library
 
 ### Deep Learning: 
 - [Theano](http://www.deeplearning.net/software/theano/)
