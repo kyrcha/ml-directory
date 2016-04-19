@@ -19,6 +19,16 @@ Deep stuff:
 - [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
 - [CS 294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)
 
+## Topics
+
+### AutoML - Automated Machine Learning:
+- [AutoML.org](http://automl.org/)
+- AutoML Workshops:
+  - [2014](https://sites.google.com/site/automlwsicml14/) @ICML
+  - [2015](https://sites.google.com/site/automlwsicml15/) @ICML
+  - [2016](https://sites.google.com/site/automl2016/) @ICML
+- [MetaSel Workshop 2014](http://metasel2014.inescporto.pt/) - Meta-Learning and Algorithm Selection @ECAI
+
 ## Web sites
 
 - http://deeplearning.net/
@@ -49,14 +59,6 @@ Deep stuff:
 - [DL4J](http://deeplearning4j.org/)
 - [Caffe](http://caffe.berkeleyvision.org/)
 - [torch](http://torch.ch/)
-
-### AutoML - Automated Machine Learning:
-- [AutoML.org](http://automl.org/)
-- AutoML Workshops:
-  - [2014](https://sites.google.com/site/automlwsicml14/) @ICML
-  - [2015](https://sites.google.com/site/automlwsicml15/) @ICML
-  - [2016](https://sites.google.com/site/automl2016/) @ICML
-- [MetaSel Workshop 2014](http://metasel2014.inescporto.pt/) - Meta-Learning and Algorithm Selection @ECAI
 
 ## Blog roll
 
