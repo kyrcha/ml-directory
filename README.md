@@ -50,6 +50,14 @@ Deep stuff:
 - [Caffe](http://caffe.berkeleyvision.org/)
 - [torch](http://torch.ch/)
 
+### AutoML - Automated Machine Learning:
+- [AutoML.org](http://automl.org/)
+- AutoML Workshops:
+  - [2014](https://sites.google.com/site/automlwsicml14/) @ICML
+  - [2015](https://sites.google.com/site/automlwsicml15/) @ICML
+  - [2016](https://sites.google.com/site/automl2016/) @ICML
+- [MetaSel Workshop 2014](http://metasel2014.inescporto.pt/) - Meta-Learning and Algorithm Selection @ECAI
+
 ## Blog roll
 
 - [Andrej Karpathy](http://karpathy.github.io/)
