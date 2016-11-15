@@ -47,6 +47,7 @@ Deep stuff:
 - [General Sequence Learning using Recurrent Neural Networks](https://clip.mn/video/yt-VINCQghQRuM)
 - [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
 - [Deep Learning tutorial @ Kaggle](https://www.kaggle.com/c/second-annual-data-science-bowl/details/deep-learning-tutorial)
+- [Andrew W. Moore tutorials](https://www.cs.cmu.edu/~awm/tutorials.html) on several aspects of statistical data mining.
 
 ## Software
 
