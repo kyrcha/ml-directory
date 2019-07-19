@@ -1,6 +1,14 @@
 # ml-directory
 Machine learning directory
 
+## Papers
+
+Reference papers
+
+ - Elastic net regularization: [Regularization and variable selection via the
+elastic net](http://web.stanford.edu/~hastie/Papers/B67.2%20%282005%29%20301-320%20Zou%20&%20Hastie.pdf)
+
+
 ## Books
 
 Reinforcement Learning:
