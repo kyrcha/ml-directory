@@ -5,6 +5,7 @@ Machine learning directory
 
 Reference papers
 
+ - Batch normalization: [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167)
  - Dropout regularization: [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](http://jmlr.org/papers/v15/srivastava14a.html)
  - Elastic net regularization: [Regularization and variable selection via the
 elastic net](http://web.stanford.edu/~hastie/Papers/B67.2%20%282005%29%20301-320%20Zou%20&%20Hastie.pdf)
