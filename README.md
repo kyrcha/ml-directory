@@ -29,6 +29,30 @@ Deep stuff:
 - [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
 - [CS 294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)
 
+## ML Heuristics
+
+### Quotes
+
+- Keep PCA components to maintain 97-98% of variance (Andrew Ng, First ML MOOC)
+- k=10 in k-fold CV (Ambroise McLachlan)
+- Use 10x samples the VC-dimension for training (Learning from Data course by Yaser S. Abu-Mostafa)
+- Word2vec: Skip Gram works well with small amount of data and is found to represent rare words well. On the other hand, CBOW is faster and has better representations for more frequent words. [Article](https://towardsdatascience.com/introduction-to-word-embedding-and-word2vec-652d0c2060fa)
+
+### Papers
+
+Papers that account heuristics:
+
+- [A Sensitivity Analysis of (and Practitioners' Guide to) Convolutional Neural Networks for Sentence Classification](https://arxiv.org/abs/1510.03820)
+- [An Empirical Exploration of Recurrent Network Architectures](http://proceedings.mlr.press/v37/jozefowicz15.pdf)
+- [LSTM: A Search Space Odyssey](https://arxiv.org/pdf/1503.04069.pdf)
+- [An overview of gradient descent optimization algorithms](https://arxiv.org/abs/1609.04747)
+
+### Pages
+
+- [CNN Tricks](http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html)
+- [How to Train a GAN? Tips and tricks to make GANs work](https://github.com/soumith/ganhacks)
+- [Guideline to select the hyperparameters in Deep Learning](https://stats.stackexchange.com/q/95495/57185)
+
 ## Topics
 
 ### AutoML - Automated Machine Learning:
