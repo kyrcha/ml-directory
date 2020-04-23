@@ -13,9 +13,13 @@ elastic net](http://web.stanford.edu/~hastie/Papers/B67.2%20%282005%29%20301-320
 
 ## Books
 
-Reinforcement Learning:
+### Statistics
 
-- [Reinforcement Learning: An Introduction](https://webdocs.cs.ualberta.ca/~sutton/book/the-book.html) - Sutton & Barto
+- [Think Stats: Probability and Statistics for Programmers](http://greenteapress.com/thinkstats/) by Allen Downey - (with free PDF download link)
+
+### Reinforcement Learning:
+
+- [Reinforcement Learning: An Introduction](https://webdocs.cs.ualberta.ca/~sutton/book/the-book.html) by Sutton & Barto
 
 ## Courses
 
