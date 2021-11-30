@@ -56,6 +56,7 @@ Papers that account heuristics:
 - [CNN Tricks](http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html)
 - [How to Train a GAN? Tips and tricks to make GANs work](https://github.com/soumith/ganhacks)
 - [Guideline to select the hyperparameters in Deep Learning](https://stats.stackexchange.com/q/95495/57185)
+- [ML Fundamentals Checklist](https://microsoft.github.io/code-with-engineering-playbook/machine-learning/ml-fundamentals-checklist/) by Microsoft
 
 ## Topics
 
