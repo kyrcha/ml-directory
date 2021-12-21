@@ -103,6 +103,9 @@ Papers that account heuristics:
 - [pandas](http://pandas.pydata.org/) - Python Data Analysis Library
 - [xgboost](https://github.com/dmlc/xgboost)
 
+### Recommender Systems:
+- [Surprise](https://github.com/NicolasHug/Surprise) - A Python scikit for building and analyzing recommender systems
+
 ### Deep Learning: 
 - [Theano](http://www.deeplearning.net/software/theano/)
 - [DL4J](http://deeplearning4j.org/)
